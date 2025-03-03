@@ -1,4 +1,4 @@
-# Game Projects
+# Game Project Asteroid
 
 ### Installation Instructions
 
